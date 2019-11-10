@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483529642305",
+    "firebase_url": "https://heightsmagamart.firebaseio.com",
+    "project_id": "heightsmagamart",
+    "storage_bucket": "heightsmagamart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483529642305:android:27937d6d245621ca",
+        "android_client_info": {
+          "package_name": "heights.megamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483529642305-15ls7p35bj71j1alieb6rbeuao1tvcal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "heights.megamart",
+            "certificate_hash": "1197ad03ce62129a0f4a59899818a50a25fd748d"
+          }
+        },
+        {
+          "client_id": "483529642305-937f448h3tvvpp9bq324c65ce0d3locb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWc1-kreC1jGcNbIKe8T3---rLaYvXSTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483529642305-937f448h3tvvpp9bq324c65ce0d3locb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
